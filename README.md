@@ -1,1 +1,1 @@
-Data Structures and Algorithms with Dean Hendrix at Auburn University
+# Data Structures and Algorithms with Dean Hendrix at Auburn University
